@@ -141,3 +141,5 @@ class NeuralNet():
         plt.ylabel("logloss")
         plt.title("Loss curve for training")
         plt.show()  
+
+    "great explanation for simple neural net https://heartbeat.fritz.ai/building-a-neural-network-from-scratch-using-python-part-1-6d399df8d432"
