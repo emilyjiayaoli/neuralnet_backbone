@@ -1,2 +1,2 @@
 # neuralnet_backbone
-example backbone code for the baseline of very simple neural net
+example code a very simple neural net
